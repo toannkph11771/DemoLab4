@@ -1,0 +1,17 @@
+{
+  "name": "demolab4",
+  "version": "1.0.0",
+  "description": "fjfhg",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "author": "toan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "express-handlebars": "^5.2.1"
+  }
+}
